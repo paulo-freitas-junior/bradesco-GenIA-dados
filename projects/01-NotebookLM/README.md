@@ -1,13 +1,17 @@
 # Projeto 01 - Explorando o NotebookLM
 
-[![Status](https://img.shields.io/badge/status-em_desenvolvimento-yellow)](https://github.com/paulo-freitas-junior/neo4j-bootcamp-2026/blob/main/README.md)
+<div align="center">
+  <img src="/images/project01/notebooklm.jpg" width="100%" alt="NotebookLM">
+  </div>
+
+[![Status](https://img.shields.io/badge/status-concluído-blue)](https://github.com/paulo-freitas-junior/neo4j-bootcamp-2026/blob/main/README.md)
 
 ---
 ## Contexto e Objetivos
 
 Projeto visa explorar os recursos oferecidos pelo NotebookLM gerando uma base de conhecimento focada no assunto sobre **Pesca Esportiva no Brasil.**
 
-O notebook se encontra neste [link](https://notebooklm.google.com/notebook/4488a404-9217-45b0-bff0-702841d96dec/preview)
+**O notebook se encontra neste [link](https://notebooklm.google.com/notebook/4488a404-9217-45b0-bff0-702841d96dec/preview)**
 
 ---
 ## Os objetivos desse Notebook abragem:
@@ -138,6 +142,7 @@ Prompt: "Discuta a importância da **ciência cidadã** na coleta de dados biol�
 *   **Puçá (Passaguá):** Rede de mão utilizada para auxiliar o embarque seguro do peixe. Na pesca esportiva, recomenda-se que seja feita de silicone ou borracha para não remover o muco do animal.
 *   **Revitalização:** Técnica de segurar o peixe horizontalmente contra a correnteza para que a água oxigene as brânquias antes da soltura definitiva.
 
+---
 ## Considerações Finais
 
 Analisando os Resumos em vídeo, Apresentações, Relatórios e Cartões didáticos gerados pelo NotebookLM conforme as diretrizes apontados na **nota adicionada** nas Fontes e conforme todo o material inserido, uma vez que possuo bom conhecimento sobre o assunto, pude verificar que o NotebookLM elaborou materiais concisos, de qualidade tanto visual (o que me surpreendeu e muito) bem como dentro das fontes foi capaz de organizar os conteúdos de forma correta e dentro do perfil didático solicitado.
