@@ -1,58 +1,31 @@
-//  15 Primeiros links pesquisados e inseridos no NotebookLM
+// links pesquisados e inseridos no NotebookLM
+
+// fontes de texto e PDF online
 
 https://www.scribd.com/document/78663189/Livro-Completo-Pesque-e-Solte
 https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/812413/1/FOC03.pdf
 https://www.gov.br/mpa/pt-br/assuntos/pesca-amadora-e-esportiva/copy2_of_Pesca_Amadora_v3917JANFINALDIGITAL.pdf
-https://www.youtube.com/watch?v=qQr5S7cndGY
 https://www.gov.br/mpa/pt-br/assuntos/pesca-amadora-e-esportiva/cartilha-arte-1.pdf
 https://portalambiental.pereirabarreto.sp.gov.br/wp-content/uploads/downloads/2012/10/Manual-do-Pescador-Amador-REVISADO1.pdf
 https://pt.scribd.com/document/463270825/pesca-esportiva-pdf
 https://www.researchgate.net/publication/360878119_Guia_de_boas_praticas_de_pesque_e_solte
 https://www.gov.br/mpa/pt-br/assuntos/pesca-amadora-e-esportiva/Pesca_Amadora_v4128ABRILFINALFISICO_v2_compressed.pdf
-https://pt.scribd.com/document/652565195/Manual-Pratico-do-Pescador-pdf
 https://www.gov.br/mpa/pt-br/assuntos/pesca-amadora-e-esportiva/PANORAMAPESCAAMADORAEESPORTIVA_site2_compressed.pdf
-https://www.gov.br/agricultura/pt-br/assuntos/producao-animal/selo-arte-selo-queijo-artesanal/publicacoes-1/web-cartilha-pesca-artesanal.pdf
-https://guiapescaesportiva.com.br/blog/manutencao-equipamentos-pesca-guia/
-https://guiapescaesportiva.com.br/blog/carretilha-vs-molinete-qual-escolher/
-https://guiapescaesportiva.com.br/blog/fim-do-defeso-2026-quando-onde-pescar/
 https://guiapescaesportiva.com.br/blog/como-soltar-peixe-corretamente/
 https://guiapescaesportiva.com.br/blog/como-comecar-pesca-esportiva-brasil/
 
+// fontes de vídeo no YouTube
 
-// Com base no material fornecido, aqui estão as 35 fontes utilizadas neste guia, incluindo os links quando disponíveis nos textos ou metadados das fontes:
+https://www.youtube.com/watch?v=qQr5S7cndGY
+https://www.youtube.com/watch?v=6bbfsdiGdZQ&t=35s
+https://www.youtube.com/watch?v=MKktuudkV6E&t=345s
+https://www.youtube.com/watch?v=HEhLiLKcxCI
+https://www.youtube.com/watch?v=iBLmpMfoAbA&t=201s
+https://www.youtube.com/watch?v=lcg7H6UqwLE
 
-1.  **(PDF) Guia de boas praticas de pesque e solte** – Disponível para download gratuito em: [www.merosdobrasil.org](http://www.merosdobrasil.org).
-2.  **10 Dicas infalíveis para pescar bem em pesqueiros - Blog da Nautika Lazer** – [https://blog.nautikalazer.com.br/10-dicas-infaliveis-para-pescar-bem-em-pesqueiros/](https://blog.nautikalazer.com.br/10-dicas-infaliveis-para-pescar-bem-em-pesqueiros/).
-3.  **Calendário de Campeonatos de Pesca Esportiva 2026 - Governo Federal** – Portal gov.br.
-4.  **Calendário lunar de pesca 2026: melhores datas e luas - iscabox**.
-5.  **Carretilha vs Molinete: Qual Escolher para Pesca | Guia Pesca Esportiva**.
-6.  **Como Começar na Pesca Esportiva no Brasil | Guia Pesca Esportiva**.
-7.  **Como Soltar o Peixe: Guia de Catch and Release | Guia Pesca Esportiva**.
-8.  **Fim do Defeso 2026: Quando e Onde Voltar a Pescar | Guia Pesca Esportiva**.
-9.  **Guia Prático de Pesca Esportiva | PDF | Pesca | Peixes** – Documento do Scribd.
-10. **Guia de boas práticas de pesque e solte - Portal Pesca Amadora Esportiva**.
-11. **Guia para iniciantes na Pesca Recreativa: Equipamentos essenciais - Aventura e Cia**.
-12. **Lançado guia gratuito de boas práticas de pesca esportiva - Lugares ECO** – [https://www.lugares.eco.br/noticias/lancado-guia-gratuito-de-boas-praticas-de-pesca-esportiva/1898/](https://www.lugares.eco.br/noticias/lancado-guia-gratuito-de-boas-praticas-de-pesca-esportiva/1898/).
-13. **Manual Prático Do Pescador PDF | PDF** – Disponível no Scribd.
-14. **Manutenção de Equipamentos de Pesca: Guia Completo para Conservar Seus Materiais | Guia Pesca Esportiva**.
-15. **Melhor Carretilha de Pesca do Mundo: Qual Escolher?**.
-16. **ONDE PESCAR DOURADO NO BRASIL ? - bca fishing**.
-17. **Onde pescar com crianças: resorts e hotéis fazenda com pescaria no Sudeste do Brasil** – Family Trip Magazine.
-18. **PANORAMAPESCAAMADORAEESPORTIVA_site2_compressed.pdf**.
-19. **PESQUE PAGUE, OU PAGUE E PESQUE OU PESCA ESPORTIVA? As modalidades de PESQUEIROS** – Fonte em vídeo (YouTube).
-20. **Pesca de Tambaqui: Guia Completo, Iscas e Dicas**.
-21. **Pesca de tucunaré com iscas artificiais e melhore seus resultados - Amazonas Fishing**.
-22. **Pesca desportiva – Wikipédia, a enciclopédia livre** – [https://pt.wikipedia.org/w/index.php?title=Pesca_desportiva&oldid=68746279](https://pt.wikipedia.org/w/index.php?title=Pesca_desportiva&oldid=68746279).
-23. **Pesca esportiva: conheça os 10 estados brasileiros favoritos para a prática** – Ministério do Turismo / gov.br.
-24. **Pesque e Pague: O Que É, Como Funciona e Quanto Custa em 2026 - O Peixe Fresco**.
-25. **Pesque-e-Solte: Guia Prático e Informativo | PDF | Pesca | Peixes** – Publicação do IBAMA via Scribd.
-26. **Pesqueiros do Brasil: Conheça os locais que farão parte da atração - Fish TV**.
-27. **Pesqueiros: tudo sobre estes locais de pesca** – Pescaria S/A.
-28. **Qual É a Melhor Boia Cevadeira Para Pesqueiro Para Fisgar Tambas?**.
-29. **Solicitar registro de Pescador Amador - Governo Federal** – Portal gov.br.
-30. **Top 20 Melhores Pesqueiros no Estado de SP 2025 - Pescaria S/A**.
-31. **Técnicas para pesque-pagues urbanos: guia completo para maximizar capturas em pesqueiros de cidade - iscabox**.
-32. [https://www.gov.br/agricultura/pt-br/assuntos/producao-animal/selo-arte-selo-queijo-artesanal/publicacoes-1/web-cartilha-pesca-artesanal.pdf](https://www.gov.br/agricultura/pt-br/assuntos/producao-animal/selo-arte-selo-queijo-artesanal/publicacoes-1/web-cartilha-pesca-artesanal.pdf)
-33. [https://www.gov.br/mpa/pt-br/assuntos/pesca-amadora-e-esportiva/PANORAMAPESCAAMADORAEESPORTIVA_site2_compressed.pdf](https://www.gov.br/mpa/pt-br/assuntos/pesca-amadora-e-esportiva/PANORAMAPESCAAMADORAEESPORTIVA_site2_compressed.pdf)
-34. [https://www.gov.br/mpa/pt-br/assuntos/pesca-amadora-e-esportiva/Pesca_Amadora_v4128ABRILFINALFISICO_v2_compressed.pdf](https://www.gov.br/mpa/pt-br/assuntos/pesca-amadora-e-esportiva/Pesca_Amadora_v4128ABRILFINALFISICO_v2_compressed.pdf)
-35. [https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/812413/1/FOC03.pdf](https://www.infoteca.cnptia.embrapa.br/infoteca/bitstream/doc/812413/1/FOC03.pdf) – Recomendações para praticar o pesque-e-solte da Embrapa Pantanal.
+
+Estes são os links principais que pesquisei e inseri como Fontes no NotebookLM.
+Na sequência solicitei uma deep research no prompt informando que baseando-se nas fontes já pré definidas,
+que busque na internet apenas sites de alta credibilidade e confiança sobre o tema, complementar uma lista
+de fontes. 
+O resultado foram mais alguns links específicos do Governo e de órgãos ligados ao Governo como complemento.
